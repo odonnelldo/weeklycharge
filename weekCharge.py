@@ -1,5 +1,4 @@
 import pandas as pd
-from datetime import datetime
 
 
 df = pd.read_csv('C:/Users/derrick.odonnell/Scripts/netsuite compare/weeklycharge/mvpspa.csv')
